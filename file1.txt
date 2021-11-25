@@ -1,0 +1,4 @@
+git - is a tool
+github - is a could account
+pwd - present working directory
+mkdir
